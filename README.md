@@ -1,7 +1,11 @@
 # Requirements
+
 Tensorflow==2.8
+
 sklearn
+
 pandas
+
 matplotlib
 
 # Dataset

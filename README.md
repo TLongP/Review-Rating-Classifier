@@ -16,3 +16,4 @@ You can also use tfds.text.IMDBReviews.
 # Review-Rating-Classifier
 
 We build a model to classify the reiviews of a movie.
+My goal is to use tfrecords for faster training.

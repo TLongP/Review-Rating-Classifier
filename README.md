@@ -1,6 +1,6 @@
 # Requirements
 
-Tensorflow==2.8
+tensorflow==2.8
 
 sklearn
 
